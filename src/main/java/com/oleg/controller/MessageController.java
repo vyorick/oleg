@@ -1,6 +1,6 @@
-package com.varyn.oleg.controller;
+package com.oleg.controller;
 
-import com.varyn.oleg.exceptions.NotFoundException;
+import com.oleg.exceptions.NotFoundException;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;

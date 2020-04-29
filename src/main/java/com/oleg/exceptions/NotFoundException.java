@@ -1,4 +1,4 @@
-package com.varyn.oleg.exceptions;
+package com.oleg.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
